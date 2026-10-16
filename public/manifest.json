@@ -1,0 +1,18 @@
+{
+  "name": "AntiGravity 3D",
+  "short_name": "AntiGravity",
+  "description": "Transform 2D images into interactive 3D models with AI and anti-gravity physics",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/samples/toy.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
